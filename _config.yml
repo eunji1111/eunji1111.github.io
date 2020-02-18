@@ -1,7 +1,7 @@
-title: Your awesome title
+title: 데이터 사이언스 랩
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: 박은지
+  email: ejpark3876@naver.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -39,7 +39,7 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
+    
     # GitLab instances
     # gitlab:
     # - username: jekyll
